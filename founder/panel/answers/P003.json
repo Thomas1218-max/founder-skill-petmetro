@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I'd follow the page and take the free pack, but I wouldn't pay. It's a brand I've never heard of, nothing says where it's made, and my kitten already eats the big cheap bag from the pet shop, which costs me far less per kilo than RM 19.90.",
+  "objection": "Where is it made? Nobody says. I'm not feeding a young kitten something from an unknown factory, and after the booth closes I'd have to order by Facebook message from people I can't walk up to if something goes wrong.",
+  "would_change_my_mind": "Country of origin and maker printed plainly on the pack, and the pouches sitting on the shelf at my usual pet shop at around RM 2 each so I could grab one as a treat without messaging anyone.",
+  "price_too_cheap": 1.0,
+  "price_cheap": 1.8,
+  "price_expensive": 2.8,
+  "price_too_expensive": 3.5
+}

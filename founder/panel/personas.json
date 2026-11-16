@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "Dev",
+  "age": 27,
+  "segment": "Middle-income household",
+  "income": 67000,
+  "behaviour": "Online deal hunter",
+  "behaviour_how": "Orders cat food on Shopee during sales and compares the price per pack before buying anything.",
+  "objection": "It costs more than Whiskas. Why should I switch?",
+  "habit": "you scroll Facebook and Shopee for pet deals most evenings"
+ },
+ {
+  "id": "P002",
+  "name": "Jordan",
+  "age": 55,
+  "segment": "Higher-income household",
+  "income": 167000,
+  "behaviour": "Premium feeder",
+  "behaviour_how": "Pays more for brands the vet or pet shop recommends and reads the ingredient list.",
+  "objection": "I have never heard of this brand. Is it safe for my cat?",
+  "habit": "you scroll Facebook and Shopee for pet deals most evenings"
+ },
+ {
+  "id": "P003",
+  "name": "Declan",
+  "age": 52,
+  "segment": "Budget household",
+  "income": 24000,
+  "behaviour": "Budget bulk buyer",
+  "behaviour_how": "Buys the cheapest big bag of dry food at the pet shop and gives wet food only as an occasional treat.",
+  "objection": "Where is it made? Nobody says.",
+  "habit": "you adopted your first kitten a few months ago"
+ },
+ {
+  "id": "P004",
+  "name": "Jasper",
+  "age": 36,
+  "segment": "Higher-income household",
+  "income": 99000,
+  "behaviour": "New cat owner",
+  "behaviour_how": "Got a first cat within the last year, is still trying different foods, and asks friends and Facebook groups what to feed.",
+  "objection": "Can I still buy it after this mall event ends?",
+  "habit": "you have one indoor cat and buy its food together with the family groceries"
+ },
+ {
+  "id": "P005",
+  "name": "Zoe",
+  "age": 38,
+  "segment": "Middle-income household",
+  "income": 70000,
+  "behaviour": "Budget bulk buyer",
+  "behaviour_how": "Buys the cheapest big bag of dry food at the pet shop and gives wet food only as an occasional treat.",
+  "objection": "I have never heard of this brand. Is it safe for my cat?",
+  "habit": "you do the weekly grocery run at a mall in Miri and walk past the event booths on the way in"
+ },
+ {
+  "id": "P006",
+  "name": "Hana",
+  "age": 42,
+  "segment": "Middle-income household",
+  "income": 93000,
+  "behaviour": "Online deal hunter",
+  "behaviour_how": "Orders cat food on Shopee during sales and compares the price per pack before buying anything.",
+  "objection": "My cat is fussy. What if it won't eat it?",
+  "habit": "you do the weekly grocery run at a mall in Miri and walk past the event booths on the way in"
+ },
+ {
+  "id": "P007",
+  "name": "Rhys",
+  "age": 27,
+  "segment": "Budget household",
+  "income": 29000,
+  "behaviour": "Supermarket Whiskas buyer",
+  "behaviour_how": "Buys Whiskas with the weekly groceries: 80g pouches at about RM 2 each and a 1.2kg bag of dry food at about RM 15 to RM 17.",
+  "objection": "My cat is fussy. What if it won't eat it?",
+  "habit": "your family keeps a halal home, so you check the ingredients of anything you bring in"
+ },
+ {
+  "id": "P008",
+  "name": "Nadia",
+  "age": 55,
+  "segment": "Middle-income household",
+  "income": 59000,
+  "behaviour": "New cat owner",
+  "behaviour_how": "Got a first cat within the last year, is still trying different foods, and asks friends and Facebook groups what to feed.",
+  "objection": "I have never heard of this brand. Is it safe for my cat?",
+  "habit": "you scroll Facebook and Shopee for pet deals most evenings"
+ },
+ {
+  "id": "P009",
+  "name": "Leah",
+  "age": 26,
+  "segment": "Middle-income household",
+  "income": 64000,
+  "behaviour": "Supermarket Whiskas buyer",
+  "behaviour_how": "Buys Whiskas with the weekly groceries: 80g pouches at about RM 2 each and a 1.2kg bag of dry food at about RM 15 to RM 17.",
+  "objection": "Can I still buy it after this mall event ends?",
+  "habit": "you scroll Facebook and Shopee for pet deals most evenings"
+ },
+ {
+  "id": "P010",
+  "name": "Kira",
+  "age": 31,
+  "segment": "Budget household",
+  "income": 25000,
+  "behaviour": "Supermarket Whiskas buyer",
+  "behaviour_how": "Buys Whiskas with the weekly groceries: 80g pouches at about RM 2 each and a 1.2kg bag of dry food at about RM 15 to RM 17.",
+  "objection": "My cat is fussy. What if it won't eat it?",
+  "habit": "you scroll Facebook and Shopee for pet deals most evenings"
+ },
+ {
+  "id": "P011",
+  "name": "Finn",
+  "age": 53,
+  "segment": "Higher-income household",
+  "income": 116000,
+  "behaviour": "Supermarket Whiskas buyer",
+  "behaviour_how": "Buys Whiskas with the weekly groceries: 80g pouches at about RM 2 each and a 1.2kg bag of dry food at about RM 15 to RM 17.",
+  "objection": "It says no pork, but is it actually halal-certified?",
+  "habit": "you scroll Facebook and Shopee for pet deals most evenings"
+ },
+ {
+  "id": "P012",
+  "name": "Isla",
+  "age": 46,
+  "segment": "Budget household",
+  "income": 30000,
+  "behaviour": "Online deal hunter",
+  "behaviour_how": "Orders cat food on Shopee during sales and compares the price per pack before buying anything.",
+  "objection": "My cat is fussy. What if it won't eat it?",
+  "habit": "you have one indoor cat and buy its food together with the family groceries"
+ },
+ {
+  "id": "P013",
+  "name": "Aisha",
+  "age": 42,
+  "segment": "Budget household",
+  "income": 40000,
+  "behaviour": "Feeds many cats",
+  "behaviour_how": "Feeds four or more cats, including strays, so the cost per meal matters most.",
+  "objection": "It costs more than Whiskas. Why should I switch?",
+  "habit": "you adopted your first kitten a few months ago"
+ },
+ {
+  "id": "P014",
+  "name": "Idris",
+  "age": 50,
+  "segment": "Budget household",
+  "income": 37000,
+  "behaviour": "Budget bulk buyer",
+  "behaviour_how": "Buys the cheapest big bag of dry food at the pet shop and gives wet food only as an occasional treat.",
+  "objection": "Where is it made? Nobody says.",
+  "habit": "you have one indoor cat and buy its food together with the family groceries"
+ },
+ {
+  "id": "P015",
+  "name": "Adrian",
+  "age": 34,
+  "segment": "Budget household",
+  "income": 31000,
+  "behaviour": "Feeds many cats",
+  "behaviour_how": "Feeds four or more cats, including strays, so the cost per meal matters most.",
+  "objection": "It says no pork, but is it actually halal-certified?",
+  "habit": "you do the weekly grocery run at a mall in Miri and walk past the event booths on the way in"
+ },
+ {
+  "id": "P016",
+  "name": "Arjun",
+  "age": 32,
+  "segment": "Budget household",
+  "income": 26000,
+  "behaviour": "Feeds many cats",
+  "behaviour_how": "Feeds four or more cats, including strays, so the cost per meal matters most.",
+  "objection": "Can I still buy it after this mall event ends?",
+  "habit": "you do the weekly grocery run at a mall in Miri and walk past the event booths on the way in"
+ },
+ {
+  "id": "P017",
+  "name": "Elle",
+  "age": 45,
+  "segment": "Middle-income household",
+  "income": 90000,
+  "behaviour": "Budget bulk buyer",
+  "behaviour_how": "Buys the cheapest big bag of dry food at the pet shop and gives wet food only as an occasional treat.",
+  "objection": "It says no pork, but is it actually halal-certified?",
+  "habit": "you have one indoor cat and buy its food together with the family groceries"
+ },
+ {
+  "id": "P018",
+  "name": "Cole",
+  "age": 24,
+  "segment": "Middle-income household",
+  "income": 68000,
+  "behaviour": "New cat owner",
+  "behaviour_how": "Got a first cat within the last year, is still trying different foods, and asks friends and Facebook groups what to feed.",
+  "objection": "Can I still buy it after this mall event ends?",
+  "habit": "you adopted your first kitten a few months ago"
+ },
+ {
+  "id": "P019",
+  "name": "Grace",
+  "age": 49,
+  "segment": "Budget household",
+  "income": 46000,
+  "behaviour": "Premium feeder",
+  "behaviour_how": "Pays more for brands the vet or pet shop recommends and reads the ingredient list.",
+  "objection": "I have never heard of this brand. Is it safe for my cat?",
+  "habit": "you adopted your first kitten a few months ago"
+ },
+ {
+  "id": "P020",
+  "name": "Lina",
+  "age": 48,
+  "segment": "Middle-income household",
+  "income": 66000,
+  "behaviour": "Supermarket Whiskas buyer",
+  "behaviour_how": "Buys Whiskas with the weekly groceries: 80g pouches at about RM 2 each and a 1.2kg bag of dry food at about RM 15 to RM 17.",
+  "objection": "It says no pork, but is it actually halal-certified?",
+  "habit": "your family keeps a halal home, so you check the ingredients of anything you bring in"
+ }
+]

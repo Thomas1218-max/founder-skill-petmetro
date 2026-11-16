@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I have never heard of PetMetro and I am not going to pay for food from an unknown brand when my cat is fine on the big bag of dry food I already buy. I might follow the page for the free pack, but that is not the same as spending money.",
+  "objection": "It is a new brand with a booth that disappears after two weeks. I do not know where it is made or whether it will upset my cat's stomach, and after the event I would have to order by Facebook message instead of just picking it up at the pet shop.",
+  "would_change_my_mind": "If my cat ate the free pack with no tummy trouble and the pouches were then sold at my usual pet shop at around RM 2 each, I would pick up a few as treats.",
+  "price_too_cheap": 1.0,
+  "price_cheap": 1.8,
+  "price_expensive": 2.8,
+  "price_too_expensive": 3.5
+}

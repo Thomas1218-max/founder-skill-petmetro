@@ -1,0 +1,35 @@
+{
+  "business": "PetMetro (cat food, treats and cat milk; mall booth in Miri, Sarawak)",
+  "target": "Cat owners living in Miri, Sarawak, Malaysia, who shop at Permy Mall and buy cat food at least twice a month. All money is in Malaysian Ringgit (RM), including your yearly income",
+  "where": "Miri, Sarawak, Malaysia",
+  "age": [22, 55],
+  "segments": [
+    {"name": "Budget household", "share": 0.45, "income": [24000, 48000]},
+    {"name": "Middle-income household", "share": 0.40, "income": [48000, 96000]},
+    {"name": "Higher-income household", "share": 0.15, "income": [96000, 180000]}
+  ],
+  "behaviours": [
+    {"name": "Supermarket Whiskas buyer", "share": 0.25, "how": "Buys Whiskas with the weekly groceries: 80g pouches at about RM 2 each and a 1.2kg bag of dry food at about RM 15 to RM 17."},
+    {"name": "Budget bulk buyer", "share": 0.20, "how": "Buys the cheapest big bag of dry food at the pet shop and gives wet food only as an occasional treat."},
+    {"name": "Online deal hunter", "share": 0.15, "how": "Orders cat food on Shopee during sales and compares the price per pack before buying anything."},
+    {"name": "New cat owner", "share": 0.15, "how": "Got a first cat within the last year, is still trying different foods, and asks friends and Facebook groups what to feed."},
+    {"name": "Feeds many cats", "share": 0.15, "how": "Feeds four or more cats, including strays, so the cost per meal matters most."},
+    {"name": "Premium feeder", "share": 0.10, "how": "Pays more for brands the vet or pet shop recommends and reads the ingredient list."}
+  ],
+  "objections": [
+    "I have never heard of this brand. Is it safe for my cat?",
+    "Where is it made? Nobody says.",
+    "It says no pork, but is it actually halal-certified?",
+    "It costs more than Whiskas. Why should I switch?",
+    "My cat is fussy. What if it won't eat it?",
+    "Can I still buy it after this mall event ends?"
+  ],
+  "habits": [
+    "you do the weekly grocery run at a mall in Miri and walk past the event booths on the way in",
+    "you have one indoor cat and buy its food together with the family groceries",
+    "you feed your two cats plus a few strays behind the house",
+    "you scroll Facebook and Shopee for pet deals most evenings",
+    "your family keeps a halal home, so you check the ingredients of anything you bring in",
+    "you adopted your first kitten a few months ago"
+  ]
+}

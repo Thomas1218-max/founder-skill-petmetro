@@ -1,0 +1,13 @@
+{
+  "id": "P014",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "I buy one big cheap bag of dry food with the groceries and that is it; wet food is a once-in-a-while treat I pick up from the same shelf. RM 19.90 for 1kg is about double what I pay per kilo, and I am not going to message a Facebook page to order cat food.",
+  "objection": "Where is it made? New brand, cartoon cats, 'no pork ingredients', but nobody says which country or factory it comes from. I am not feeding my cat something I cannot trace.",
+  "would_change_my_mind": "Country of origin printed clearly on the pack, plus a big bag (7kg or more) on a pet shop shelf at a per-kilo price that matches what I pay now.",
+  "price_too_cheap": 1.00,
+  "price_cheap": 1.80,
+  "price_expensive": 2.80,
+  "price_too_expensive": 3.50
+}
